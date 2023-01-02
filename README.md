@@ -1,0 +1,1 @@
+This is the project for do some mathmetical calculations like finding angle. In this code you have to put here a value of an angle. and it will show you the all dimensions of (sin,cos,sec,cosec,cot and tan). 
